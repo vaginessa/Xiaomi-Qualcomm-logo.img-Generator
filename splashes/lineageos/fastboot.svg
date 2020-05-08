@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080"
+   height="2400"
+   viewBox="0 0 285.74999 635.00002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="fastboot.svg"
+   inkscape:export-filename="/home/seba/Scrivania/Repositories/SebaUbuntu/logo/splashes/lineageos/fastboot.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="1080px"
+     inkscape:zoom="0.27660985"
+     inkscape:cx="375.95381"
+     inkscape:cy="1057.5422"
+     inkscape:window-width="1440"
+     inkscape:window-height="816"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="303.25721"
+       y="409.53482"
+       width="632.4813"
+       height="50.099922"
+       id="rect124405" />
+    <rect
+       x="217.44172"
+       y="442.82666"
+       width="624.34951"
+       height="246.91608"
+       id="rect71126" />
+    <rect
+       x="357.75839"
+       y="688.40022"
+       width="589.97879"
+       height="72.887778"
+       id="rect86095" />
+    <rect
+       x="249.16106"
+       y="159.92845"
+       width="694.66264"
+       height="363.55297"
+       id="rect30752" />
+  </defs>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text86093"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.70003223px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:2.64583993px;white-space:pre;shape-inside:url(#rect86095);fill:#9f0b1e;fill-opacity:1;stroke:none;stroke-width:0.26458398"
+       x="-44.793377"
+       y="-100.50491"
+       transform="scale(0.99999747,1.0000025)"><tspan
+         x="49.863613"
+         y="93.312737"
+         id="tspan198083"
+         style="fill:#9f0b1e;fill-opacity:1;stroke-width:0.26458398">FASTBOOT MODE</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text124403"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:'Product Sans';-inkscape-font-specification:'Product Sans';white-space:pre;shape-inside:url(#rect124405);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.027809"
+       y="18.334351"><tspan
+         x="100.26477"
+         y="136.38966"
+         id="tspan198101"
+         style="font-size:8.46666622px;stroke-width:0.26458332">Connect your device to a PC to start</tspan></text>
+    <g
+       style="fill:#ffffff"
+       id="g134151"
+       transform="matrix(1.3394531,0,0,1.3394531,126.80156,563.21234)">
+      <path
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path134139"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         d="m 15,7 v 4 h 1 v 2 H 13 V 5 h 2 L 12,1 9,5 h 2 v 8 H 8 V 10.93 C 8.7,10.56 9.2,9.85 9.2,9 9.2,7.79 8.21,6.8 7,6.8 5.79,6.8 4.8,7.79 4.8,9 4.8,9.85 5.3,10.56 6,10.93 V 13 c 0,1.11 0.89,2 2,2 h 3 v 3.05 c -0.71,0.37 -1.2,1.1 -1.2,1.95 0,1.22 0.99,2.2 2.2,2.2 1.21,0 2.2,-0.98 2.2,-2.2 0,-0.85 -0.49,-1.58 -1.2,-1.95 V 15 h 3 c 1.11,0 2,-0.89 2,-2 v -2 h 1 V 7 Z"
+         id="path134141"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#ffffff"
+       id="g168875"
+       transform="matrix(1.3394531,0,0,1.3394531,51.346,117.58534)">
+      <path
+         d="M 0,0 H 24 V 24 H 0 Z"
+         id="path168863"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+      <path
+         d="M 4,6 H 22 V 4 H 4 C 2.9,4 2,4.9 2,6 V 17 H 0 v 3 H 14 V 17 H 4 Z m 19,2 h -6 c -0.55,0 -1,0.45 -1,1 v 10 c 0,0.55 0.45,1 1,1 h 6 c 0.55,0 1,-0.45 1,-1 V 9 C 24,8.45 23.55,8 23,8 Z m -1,9 h -4 v -7 h 4 z"
+         id="path168865"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#db4437;fill-opacity:1"
+       id="g65869"
+       transform="matrix(1.5068848,0,0,1.5068848,48.694061,37.035419)">
+      <path
+         d="m 4.47,21 h 15.06 c 1.54,0 2.5,-1.67 1.73,-3 L 13.73,4.99 c -0.77,-1.33 -2.69,-1.33 -3.46,0 L 2.74,18 c -0.77,1.33 0.19,3 1.73,3 z M 12,14 c -0.55,0 -1,-0.45 -1,-1 v -2 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 v 2 c 0,0.55 -0.45,1 -1,1 z m 1,4 h -2 v -2 h 2 z"
+         id="path65860"
+         style="fill:#db4437;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
