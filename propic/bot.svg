@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24px"
+   viewBox="0 -960 960 960"
+   width="24px"
+   fill="#e8eaed"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bot.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:export-filename="bot.png"
+   inkscape:export-xdpi="10240"
+   inkscape:export-ydpi="10240"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#009aff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="32.875"
+     inkscape:cx="11.984791"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:export-bgcolor="#009affff" />
+  <path
+     d="m 320,-300 v -100 q 0,-16.5 11.75,-28.25 Q 343.5,-440 360,-440 h 240 q 16.5,0 28.25,11.75 Q 640,-416.5 640,-400 v 100 z m 100,-160 q -41.5,0 -70.75,-29.25 Q 320,-518.5 320,-560 q 0,-41.5 29.25,-70.75 Q 378.5,-660 420,-660 h 120 q 41.5,0 70.75,29.25 29.25,29.25 29.25,70.75 0,41.5 -29.25,70.75 Q 581.5,-460 540,-460 Z m -60,120 h 240 v -60 H 360 Z m 60,-160 h 120 q 25,0 42.5,-17.5 Q 600,-535 600,-560 600,-585 582.5,-602.5 565,-620 540,-620 H 420 q -25,0 -42.5,17.5 -17.5,17.5 -17.5,42.5 0,25 17.5,42.5 17.5,17.5 42.5,17.5 z m 0,-40 q 8.5,0 14.25,-5.75 5.75,-5.75 5.75,-14.25 0,-8.5 -5.75,-14.25 Q 428.5,-580 420,-580 q -8.5,0 -14.25,5.75 -5.75,5.75 -5.75,14.25 0,8.5 5.75,14.25 5.75,5.75 14.25,5.75 z m 120,0 q 8.5,0 14.25,-5.75 5.75,-5.75 5.75,-14.25 0,-8.5 -5.75,-14.25 Q 548.5,-580 540,-580 q -8.5,0 -14.25,5.75 -5.75,5.75 -5.75,14.25 0,8.5 5.75,14.25 5.75,5.75 14.25,5.75 z m -60,200 z m 0,-220 z"
+     id="path1"
+     style="stroke-width:0.5" />
+</svg>
